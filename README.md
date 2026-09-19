@@ -15,7 +15,7 @@ Final-year Mathematics student at Queen's University Belfast. I spent 15 months 
 
 ### Projects
 
-**[Chess engine](link)** (C++): bitboard move generation validated against perft positions, alpha-beta search with iterative deepening, CMake/GoogleTest/CI. Currently testing an NNUE-style evaluation.
+**[Chess engine]((https://github.com/MatthewPeoples/Chess-Engine))** (C++): bitboard move generation validated against perft positions, alpha-beta search with iterative deepening, CMake/GoogleTest/CI. Currently testing an NNUE-style evaluation.
 
 ### Studying
 
